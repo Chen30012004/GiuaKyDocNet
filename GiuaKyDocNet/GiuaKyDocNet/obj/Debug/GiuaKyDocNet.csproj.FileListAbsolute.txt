@@ -1,0 +1,11 @@
+C:\Users\DELL\Documents\wireframe\GiuaKyDocNet\GiuaKyDocNet\bin\Debug\GiuaKyDocNet.exe.config
+C:\Users\DELL\Documents\wireframe\GiuaKyDocNet\GiuaKyDocNet\bin\Debug\GiuaKyDocNet.exe
+C:\Users\DELL\Documents\wireframe\GiuaKyDocNet\GiuaKyDocNet\bin\Debug\GiuaKyDocNet.pdb
+C:\Users\DELL\Documents\wireframe\GiuaKyDocNet\GiuaKyDocNet\obj\Debug\GiuaKyDocNet.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\wireframe\GiuaKyDocNet\GiuaKyDocNet\obj\Debug\GiuaKyDocNet.DangNhap.resources
+C:\Users\DELL\Documents\wireframe\GiuaKyDocNet\GiuaKyDocNet\obj\Debug\GiuaKyDocNet.Properties.Resources.resources
+C:\Users\DELL\Documents\wireframe\GiuaKyDocNet\GiuaKyDocNet\obj\Debug\GiuaKyDocNet.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\wireframe\GiuaKyDocNet\GiuaKyDocNet\obj\Debug\GiuaKyDocNet.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\wireframe\GiuaKyDocNet\GiuaKyDocNet\obj\Debug\GiuaKyDocNet.exe
+C:\Users\DELL\Documents\wireframe\GiuaKyDocNet\GiuaKyDocNet\obj\Debug\GiuaKyDocNet.pdb
+C:\Users\DELL\Documents\wireframe\GiuaKyDocNet\GiuaKyDocNet\obj\Debug\GiuaKyDocNet.TrangChu.resources
